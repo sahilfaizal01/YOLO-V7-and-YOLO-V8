@@ -3,7 +3,6 @@ This repository contains projects and learning materials of the object detectors
 # PROJECTS
 * Pothole Detection using YOLOv8
 * Face Mask Detection using YOLOv7
-* Personal Protective Equipment Detection using YOLOv7
 * Implementation of pre-trained YOLOv7 and YOLOv8
 ## Performance of the YOLOv8(m) model for Pothole Detection
 * 86% of the time the model has correctly identified potholes while 14% of time it failed to.
