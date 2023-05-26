@@ -9,6 +9,7 @@ This repository contains projects and learning materials of the object detectors
 * 86% of the time the model has correctly identified potholes while 14% of time it failed to.
 * mAP50: 0.88
 * mAP50-0.95: 0.541
+# NOTES
 ## What is YOLO?
 * Joseph Redmon, Santhosh Divala, Ross Girshick, and Ali Farhadi introduced YOLO (You Only Look Once).
 * YOLO gained popularity because of its accuracy while maintaining a small model size.
