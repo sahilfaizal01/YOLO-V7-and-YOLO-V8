@@ -7,8 +7,8 @@ This repository contains projects and learning materials of the object detectors
 * Implementation of pre-trained YOLOv7 and YOLOv8
 # Performance of the YOLOv8(m) model for Pothole Detection
 * 86% of the time the model has correctly identified potholes while 14% of time it failed to.
-* mAP50:- 0.88
-* mAP50-0.95:- 0.541
+* mAP50: 0.88
+* mAP50-0.95: 0.541
 ## What is YOLO?
 * Joseph Redmon, Santhosh Divala, Ross Girshick, and Ali Farhadi introduced YOLO (You Only Look Once).
 * YOLO gained popularity because of its accuracy while maintaining a small model size.
